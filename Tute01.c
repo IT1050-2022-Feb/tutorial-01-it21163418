@@ -5,9 +5,6 @@
 #include <stdio.h>
 
 int main() {
-   #include <stdio.h>
-
-int main() {
   
   float mark1,mark2,Avg;
    
